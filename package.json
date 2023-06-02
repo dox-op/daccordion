@@ -1,6 +1,6 @@
 {
   "name": "daccordion",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "Accordion in React",
   "main": "index.ts",
   "devDependencies": {
