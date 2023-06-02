@@ -1,8 +1,8 @@
 {
   "name": "daccordion",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Accordion in React",
-  "main": "index.ts",
+  "main": "src/index.ts",
   "devDependencies": {
     "react": "16.14.0",
     "typescript": "4.9.5"
@@ -27,5 +27,8 @@
   "homepage": "https://github.com/dox-op/daccordion#readme",
   "volta": {
     "node": "20.2.0"
-  }
+  },
+  "files": [
+    "lib/**/*"
+  ]
 }
